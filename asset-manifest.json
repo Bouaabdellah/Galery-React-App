@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Galery-React-App/static/css/main.48525821.css",
+    "main.js": "/Galery-React-App/static/js/main.9d12f362.js",
+    "index.html": "/Galery-React-App/index.html",
+    "main.48525821.css.map": "/Galery-React-App/static/css/main.48525821.css.map",
+    "main.9d12f362.js.map": "/Galery-React-App/static/js/main.9d12f362.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48525821.css",
+    "static/js/main.9d12f362.js"
+  ]
+}
